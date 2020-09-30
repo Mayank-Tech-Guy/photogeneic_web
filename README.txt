@@ -2,9 +2,6 @@
 TITLE: 
 Photogenic - Responsive Bootstrap 4 Template for Photographers
 
-AUTHOR:
-Design by FreeHTML5.co
-Website: http://freehtml5.co/
 
 
 
